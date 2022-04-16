@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @notyournormalcurry
 - 👀 I’m interested in coding and system administration.
-- 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on System administration and Development using python 3
+- 🌱 I’m currently learning Fullstack Web Development.
+- 💞️ I’m looking to collaborate on Web development and system administration.
 - 📫 How to reach me : anandusivaya@gmail.com
 
 <!---
